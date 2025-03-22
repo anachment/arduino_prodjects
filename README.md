@@ -1,2 +1,1 @@
-# arduino_prodjects
-This repository contains my projects based on arduino, this repository is constantly updated.
+<img src="header.gif" width="1000" height="200" alt="Иллюстрация" vspace="5" hspace="5">
